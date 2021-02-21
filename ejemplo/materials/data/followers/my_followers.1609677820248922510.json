@@ -1,0 +1,2580 @@
+{
+  "users": [
+    {
+      "id": 2448734328,
+      "id_str": "2448734328",
+      "name": "Kiel",
+      "screen_name": "y_kiel_",
+      "location": "Costa Rica",
+      "description": "\"Ning\u00fan precio es demasiado alto por el privilegio de ser uno mismo\u201d.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": true,
+      "followers_count": 75,
+      "friends_count": 383,
+      "listed_count": 0,
+      "created_at": "Thu Apr 17 03:38:44 +0000 2014",
+      "favourites_count": 2101,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 270,
+      "lang": null,
+      "status": {
+        "created_at": "Tue Feb 16 21:43:37 +0000 2021",
+        "id": 1361793379969957888,
+        "id_str": "1361793379969957888",
+        "text": "RT @AidaMontielCR: Hoy en @asambleacr con 37 votos a favor aprobamos el proyecto de Ley 21.330 \u201ccreaci\u00f3n de la Agencia Espacial Costarricen\u2026",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "AidaMontielCR",
+              "name": "Diputada Aida Mar\u00eda Montiel",
+              "id": 985293223001194499,
+              "id_str": "985293223001194499",
+              "indices": [
+                3,
+                17
+              ]
+            },
+            {
+              "screen_name": "asambleacr",
+              "name": "Asamblea Legislativa",
+              "id": 48132382,
+              "id_str": "48132382",
+              "indices": [
+                26,
+                37
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Tue Feb 16 00:09:27 +0000 2021",
+          "id": 1361467693761777665,
+          "id_str": "1361467693761777665",
+          "text": "Hoy en @asambleacr con 37 votos a favor aprobamos el proyecto de Ley 21.330 \u201ccreaci\u00f3n de la Agencia Espacial Costar\u2026 https://t.co/cdNEU8N0js",
+          "truncated": true,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "asambleacr",
+                "name": "Asamblea Legislativa",
+                "id": 48132382,
+                "id_str": "48132382",
+                "indices": [
+                  7,
+                  18
+                ]
+              }
+            ],
+            "urls": [
+              {
+                "url": "https://t.co/cdNEU8N0js",
+                "expanded_url": "https://twitter.com/i/web/status/1361467693761777665",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
+          },
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 4,
+          "favorite_count": 23,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "es"
+        },
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1349572579938467841/6k8NSzU2_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1349572579938467841/6k8NSzU2_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2448734328/1602201888",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "regular"
+    },
+    {
+      "id": 1297406791,
+      "id_str": "1297406791",
+      "name": "Nicole",
+      "screen_name": "Nicolecb2515",
+      "location": "San Jos\u00e9, Costa Rica",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 145,
+      "friends_count": 447,
+      "listed_count": 1,
+      "created_at": "Mon Mar 25 02:40:43 +0000 2013",
+      "favourites_count": 4733,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 659,
+      "lang": null,
+      "status": {
+        "created_at": "Mon Feb 15 16:45:24 +0000 2021",
+        "id": 1361355943523590144,
+        "id_str": "1361355943523590144",
+        "text": "RT @latzavara: https://t.co/oEinjyKFNg",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "latzavara",
+              "name": "laia \ud83c\udff9",
+              "id": 994477294449250304,
+              "id_str": "994477294449250304",
+              "indices": [
+                3,
+                13
+              ]
+            }
+          ],
+          "urls": [],
+          "media": [
+            {
+              "id": 1361036908147728384,
+              "id_str": "1361036908147728384",
+              "indices": [
+                15,
+                38
+              ],
+              "media_url": "http://pbs.twimg.com/media/EuNf21xXYAADWte.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/EuNf21xXYAADWte.jpg",
+              "url": "https://t.co/oEinjyKFNg",
+              "display_url": "pic.twitter.com/oEinjyKFNg",
+              "expanded_url": "https://twitter.com/latzavara/status/1361036910567829506/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 264,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 720,
+                  "h": 279,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 720,
+                  "h": 279,
+                  "resize": "fit"
+                }
+              },
+              "source_status_id": 1361036910567829506,
+              "source_status_id_str": "1361036910567829506",
+              "source_user_id": 994477294449250304,
+              "source_user_id_str": "994477294449250304"
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1361036908147728384,
+              "id_str": "1361036908147728384",
+              "indices": [
+                15,
+                38
+              ],
+              "media_url": "http://pbs.twimg.com/media/EuNf21xXYAADWte.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/EuNf21xXYAADWte.jpg",
+              "url": "https://t.co/oEinjyKFNg",
+              "display_url": "pic.twitter.com/oEinjyKFNg",
+              "expanded_url": "https://twitter.com/latzavara/status/1361036910567829506/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 264,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 720,
+                  "h": 279,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 720,
+                  "h": 279,
+                  "resize": "fit"
+                }
+              },
+              "source_status_id": 1361036910567829506,
+              "source_status_id_str": "1361036910567829506",
+              "source_user_id": 994477294449250304,
+              "source_user_id_str": "994477294449250304"
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Sun Feb 14 19:37:40 +0000 2021",
+          "id": 1361036910567829506,
+          "id_str": "1361036910567829506",
+          "text": "https://t.co/oEinjyKFNg",
+          "truncated": false,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+              {
+                "id": 1361036908147728384,
+                "id_str": "1361036908147728384",
+                "indices": [
+                  0,
+                  23
+                ],
+                "media_url": "http://pbs.twimg.com/media/EuNf21xXYAADWte.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EuNf21xXYAADWte.jpg",
+                "url": "https://t.co/oEinjyKFNg",
+                "display_url": "pic.twitter.com/oEinjyKFNg",
+                "expanded_url": "https://twitter.com/latzavara/status/1361036910567829506/photo/1",
+                "type": "photo",
+                "sizes": {
+                  "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                  },
+                  "small": {
+                    "w": 680,
+                    "h": 264,
+                    "resize": "fit"
+                  },
+                  "medium": {
+                    "w": 720,
+                    "h": 279,
+                    "resize": "fit"
+                  },
+                  "large": {
+                    "w": 720,
+                    "h": 279,
+                    "resize": "fit"
+                  }
+                }
+              }
+            ]
+          },
+          "extended_entities": {
+            "media": [
+              {
+                "id": 1361036908147728384,
+                "id_str": "1361036908147728384",
+                "indices": [
+                  0,
+                  23
+                ],
+                "media_url": "http://pbs.twimg.com/media/EuNf21xXYAADWte.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EuNf21xXYAADWte.jpg",
+                "url": "https://t.co/oEinjyKFNg",
+                "display_url": "pic.twitter.com/oEinjyKFNg",
+                "expanded_url": "https://twitter.com/latzavara/status/1361036910567829506/photo/1",
+                "type": "photo",
+                "sizes": {
+                  "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                  },
+                  "small": {
+                    "w": 680,
+                    "h": 264,
+                    "resize": "fit"
+                  },
+                  "medium": {
+                    "w": 720,
+                    "h": 279,
+                    "resize": "fit"
+                  },
+                  "large": {
+                    "w": 720,
+                    "h": 279,
+                    "resize": "fit"
+                  }
+                }
+              }
+            ]
+          },
+          "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 19419,
+          "favorite_count": 122313,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "und"
+        },
+        "is_quote_status": false,
+        "retweet_count": 19419,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1098451834736390144/t0ZzVFW1_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098451834736390144/t0ZzVFW1_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1297406791/1506313578",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": true,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 1158374326531497984,
+      "id_str": "1158374326531497984",
+      "name": "Daniel Garcia Vaglio",
+      "screen_name": "degv364",
+      "location": "",
+      "description": "Robot neurologist | Mathematics lover | Costa Rican | Free software (as in freedom not free cookies)",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 25,
+      "friends_count": 260,
+      "listed_count": 0,
+      "created_at": "Mon Aug 05 13:48:55 +0000 2019",
+      "favourites_count": 3123,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 109,
+      "lang": null,
+      "status": {
+        "created_at": "Fri Feb 19 20:44:36 +0000 2021",
+        "id": 1362865693004283905,
+        "id_str": "1362865693004283905",
+        "text": "@amyherrmora Esto me recuerda a Joe Pino de 31 minutos. https://t.co/c3GeWXNZ8A",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "amyherrmora",
+              "name": "Amy Herrera",
+              "id": 1361131530937118720,
+              "id_str": "1361131530937118720",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/c3GeWXNZ8A",
+              "expanded_url": "https://youtu.be/CTaDzd1rZV0",
+              "display_url": "youtu.be/CTaDzd1rZV0",
+              "indices": [
+                56,
+                79
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1362857534256734209,
+        "in_reply_to_status_id_str": "1362857534256734209",
+        "in_reply_to_user_id": 1361131530937118720,
+        "in_reply_to_user_id_str": "1361131530937118720",
+        "in_reply_to_screen_name": "amyherrmora",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1232003460863791104/iNLrKKkp_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1232003460863791104/iNLrKKkp_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1158374326531497984/1571801275",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": true,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 278910104,
+      "id_str": "278910104",
+      "name": "Ana Javier Quintero",
+      "screen_name": "anajavierq",
+      "location": "Costa Rica",
+      "description": "Innovaci\u00f3n,emprendimiento, ciudades/bosques escenarios para explorar la magia de vivir y la belleza del asombro. Siempre en b\u00fasqueda de historias, ojal\u00e1 #Patos",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": true,
+      "followers_count": 205,
+      "friends_count": 989,
+      "listed_count": 0,
+      "created_at": "Fri Apr 08 06:21:55 +0000 2011",
+      "favourites_count": 134,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 290,
+      "lang": null,
+      "status": {
+        "created_at": "Sat Apr 04 16:46:31 +0000 2020",
+        "id": 1246479271796891648,
+        "id_str": "1246479271796891648",
+        "text": "\u00a1Mi propuesta est\u00e1 en el internet! \nDesde el 2015 facilito espacios de co creaci\u00f3n y hasta ahora priorizo contar lo\u2026 https://t.co/G4w5t51wAS",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/G4w5t51wAS",
+              "expanded_url": "https://twitter.com/i/web/status/1246479271796891648",
+              "display_url": "twitter.com/i/web/status/1\u2026",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000074201039/6a8b8150c1576807d94c35505c108ece_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000074201039/6a8b8150c1576807d94c35505c108ece_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/278910104/1372708043",
+      "profile_link_color": "2FC2EF",
+      "profile_sidebar_border_color": "181A1E",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 3155011509,
+      "id_str": "3155011509",
+      "name": "Maria Estrada",
+      "screen_name": "SMariaestrada",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 176,
+      "friends_count": 484,
+      "listed_count": 1,
+      "created_at": "Sat Apr 11 02:59:52 +0000 2015",
+      "favourites_count": 3350,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 197,
+      "lang": null,
+      "status": {
+        "created_at": "Thu Feb 11 05:22:23 +0000 2021",
+        "id": 1359734503984488448,
+        "id_str": "1359734503984488448",
+        "text": "@WSTEMproject https://t.co/4I7OUAexfH",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "WSTEMproject",
+              "name": "W-STEM project",
+              "id": 1108799247426686976,
+              "id_str": "1108799247426686976",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/4I7OUAexfH",
+              "expanded_url": "https://twitter.com/Teccr/status/1359589735501606920",
+              "display_url": "twitter.com/Teccr/status/1\u2026",
+              "indices": [
+                14,
+                37
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 1108799247426686976,
+        "in_reply_to_user_id_str": "1108799247426686976",
+        "in_reply_to_screen_name": "WSTEMproject",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1359589735501606920,
+        "quoted_status_id_str": "1359589735501606920",
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/740626427834404864/5ld4uD-U_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/740626427834404864/5ld4uD-U_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3155011509/1465414074",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": true,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 3289306650,
+      "id_str": "3289306650",
+      "name": "Jossu\u00e9 Rojas Campos",
+      "screen_name": "jossued18",
+      "location": "Cartago, Costa Rica",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 19,
+      "friends_count": 113,
+      "listed_count": 0,
+      "created_at": "Fri Jul 24 04:12:52 +0000 2015",
+      "favourites_count": 123,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 40,
+      "lang": null,
+      "status": {
+        "created_at": "Fri Aug 24 16:06:56 +0000 2018",
+        "id": 1033022857784315904,
+        "id_str": "1033022857784315904",
+        "text": "RT @2010MisterChip: Se fue Cristiano \ud83c\uddf5\ud83c\uddf9 a la Juventus \ud83c\uddee\ud83c\uddf9. Sigue Messi \ud83c\udde6\ud83c\uddf7 en el Barcelona \ud83c\uddea\ud83c\uddf8. La gran guerra del f\u00fatbol mundial, disputada s\u2026",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "2010MisterChip",
+              "name": "MisterChip (Alexis)",
+              "id": 69962890,
+              "id_str": "69962890",
+              "indices": [
+                3,
+                18
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Fri Aug 24 02:16:36 +0000 2018",
+          "id": 1032813897743577088,
+          "id_str": "1032813897743577088",
+          "text": "Se fue Cristiano \ud83c\uddf5\ud83c\uddf9 a la Juventus \ud83c\uddee\ud83c\uddf9. Sigue Messi \ud83c\udde6\ud83c\uddf7 en el Barcelona \ud83c\uddea\ud83c\uddf8. La gran guerra del f\u00fatbol mundial, disputa\u2026 https://t.co/YPAQuDzrKF",
+          "truncated": true,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+              {
+                "url": "https://t.co/YPAQuDzrKF",
+                "expanded_url": "https://twitter.com/i/web/status/1032813897743577088",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
+          },
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 13706,
+          "favorite_count": 35913,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "es"
+        },
+        "is_quote_status": false,
+        "retweet_count": 13706,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/980655018482188289/Z88ZMsH3_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/980655018482188289/Z88ZMsH3_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": true,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 1116044025084162048,
+      "id_str": "1116044025084162048",
+      "name": "May",
+      "screen_name": "maymatarrita",
+      "location": "San Jos\u00e9, Costa Rica",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 43,
+      "friends_count": 66,
+      "listed_count": 0,
+      "created_at": "Wed Apr 10 18:23:25 +0000 2019",
+      "favourites_count": 475,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 43,
+      "lang": null,
+      "status": {
+        "created_at": "Sun Oct 04 01:49:42 +0000 2020",
+        "id": 1312570557897076736,
+        "id_str": "1312570557897076736",
+        "text": "@justin__at El descaro jajaja tambi\u00e9n lo hago, pero no lo digo \ud83d\ude02",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "justin__at",
+              "name": "Justin \ud83c\udf53",
+              "id": 1515294715,
+              "id_str": "1515294715",
+              "indices": [
+                0,
+                11
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1312171164169457664,
+        "in_reply_to_status_id_str": "1312171164169457664",
+        "in_reply_to_user_id": 1515294715,
+        "in_reply_to_user_id_str": "1515294715",
+        "in_reply_to_screen_name": "justin__at",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1116045933341552643/wGqVGXZV_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1116045933341552643/wGqVGXZV_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": true,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 485233668,
+      "id_str": "485233668",
+      "name": "Sof\u00eda Parra",
+      "screen_name": "imzindana",
+      "location": "",
+      "description": "Ingeniera en Materiales, Procter & Gamble. Host Liga Tica de Leyendas.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 213,
+      "friends_count": 644,
+      "listed_count": 0,
+      "created_at": "Tue Feb 07 00:08:22 +0000 2012",
+      "favourites_count": 221,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 152,
+      "lang": null,
+      "status": {
+        "created_at": "Tue Feb 16 03:39:57 +0000 2021",
+        "id": 1361520665703178240,
+        "id_str": "1361520665703178240",
+        "text": "@CaveiraLoL Sisoy",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "CaveiraLoL",
+              "name": "G2 Caveira #FNCWIN \ud83d\udda4\ud83e\udde1",
+              "id": 1090423952894316544,
+              "id_str": "1090423952894316544",
+              "indices": [
+                0,
+                11
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1308521824435818496,
+        "in_reply_to_status_id_str": "1308521824435818496",
+        "in_reply_to_user_id": 1090423952894316544,
+        "in_reply_to_user_id_str": "1090423952894316544",
+        "in_reply_to_screen_name": "CaveiraLoL",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "642D8B",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1305230134815924225/42i_S3A4_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1305230134815924225/42i_S3A4_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/485233668/1554386554",
+      "profile_link_color": "0022FF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "7AC3EE",
+      "profile_text_color": "3D1957",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 2669966191,
+      "id_str": "2669966191",
+      "name": "Pahweeneeh",
+      "screen_name": "palvaradita",
+      "location": "San Jos\u00e9, Costa Rica",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 28,
+      "friends_count": 395,
+      "listed_count": 0,
+      "created_at": "Tue Jul 22 16:51:55 +0000 2014",
+      "favourites_count": 893,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 0,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/491946217601900545/ednF-kN9_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/491946217601900545/ednF-kN9_normal.jpeg",
+      "profile_link_color": "7FDBB6",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 210296818,
+      "id_str": "210296818",
+      "name": "Steven Melendez",
+      "screen_name": "smelendez25",
+      "location": "Costa Rica",
+      "description": "Data Analyst",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": true,
+      "followers_count": 11,
+      "friends_count": 17,
+      "listed_count": 0,
+      "created_at": "Sun Oct 31 02:42:43 +0000 2010",
+      "favourites_count": 2,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 29,
+      "lang": null,
+      "status": {
+        "created_at": "Sat Nov 07 14:23:58 +0000 2020",
+        "id": 1325081564879986689,
+        "id_str": "1325081564879986689",
+        "text": "@anthonydjames Me, I am studying hard for my AWS solutions architect certification!!! \ud83d\udc68\ud83c\udffb\u200d\ud83d\udcbb\ud83d\udc68\ud83c\udffb\u200d\ud83d\udcbb\ud83d\udc68\ud83c\udffb\u200d\ud83d\udcbb",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "anthonydjames",
+              "name": "Anthony James",
+              "id": 15010172,
+              "id_str": "15010172",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1324862790977409025,
+        "in_reply_to_status_id_str": "1324862790977409025",
+        "in_reply_to_user_id": 15010172,
+        "in_reply_to_user_id_str": "15010172",
+        "in_reply_to_screen_name": "anthonydjames",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/813176932053323776/LA8fFVrm_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/813176932053323776/LA8fFVrm_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/210296818/1482711577",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": true,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 1028429393390170113,
+      "id_str": "1028429393390170113",
+      "name": "Andrea Valverde Vega",
+      "screen_name": "AndreaV39108368",
+      "location": "San Jos\u00e9, Costa Rica",
+      "description": "Palliative Care MD /Simple human interested in Spirituality/ Wellness/ Meditation/learning always learning!!",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 50,
+      "friends_count": 204,
+      "listed_count": 1,
+      "created_at": "Sat Aug 11 23:54:09 +0000 2018",
+      "favourites_count": 154,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 91,
+      "lang": null,
+      "status": {
+        "created_at": "Wed Jan 22 01:33:50 +0000 2020",
+        "id": 1219795274954133504,
+        "id_str": "1219795274954133504",
+        "text": "Los 5 pa\u00edses con la mejor atenci\u00f3n m\u00e9dica en el mundo 2020 https://t.co/aMA1hXvYka  orgullosa de mi pa\u00eds !",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/aMA1hXvYka",
+              "expanded_url": "https://revistasumma.com/los-5-paises-con-la-mejor-atencion-medica-en-el-mundo-2020/",
+              "display_url": "revistasumma.com/los-5-paises-c\u2026",
+              "indices": [
+                59,
+                82
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1029038267377831936/-VKCbMTJ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1029038267377831936/-VKCbMTJ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1028429393390170113/1566434516",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": true,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 103353472,
+      "id_str": "103353472",
+      "name": "Kenneth Alfaro Alvarado",
+      "screen_name": "KennethAMB",
+      "location": "Costa Rica",
+      "description": "\ud83c\udde8\ud83c\uddf7  Environmental Engineer\ud83c\udf0e Young Water Professional\n\ud83d\udca7 @ Nicoya Peninsula Waterkeeper @SUWODICR @RedJovexAguaCR  #SDG6  #Waterkeeper \ud83c\udf0a #SDG14",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 574,
+      "friends_count": 2443,
+      "listed_count": 1,
+      "created_at": "Sat Jan 09 19:21:12 +0000 2010",
+      "favourites_count": 3324,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1796,
+      "lang": null,
+      "status": {
+        "created_at": "Fri Feb 19 08:35:38 +0000 2021",
+        "id": 1362682243660005378,
+        "id_str": "1362682243660005378",
+        "text": "@nevernormaI Thanks",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "nevernormaI",
+              "name": "\u064bmoon!! 6",
+              "id": 1129578250341105664,
+              "id_str": "1129578250341105664",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1362681986440192002,
+        "in_reply_to_status_id_str": "1362681986440192002",
+        "in_reply_to_user_id": 1129578250341105664,
+        "in_reply_to_user_id_str": "1129578250341105664",
+        "in_reply_to_screen_name": "nevernormaI",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "569FD2",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1189206575296196608/ukQbRQh8_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1189206575296196608/ukQbRQh8_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/103353472/1595883441",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "F1F2E8",
+      "profile_text_color": "96B949",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 1080625094353973248,
+      "id_str": "1080625094353973248",
+      "name": "Mari_kstillo",
+      "screen_name": "KstilloMari",
+      "location": "Alajuela, Costa Rica",
+      "description": "Ing. Mec\u00e1nica-UCR\nTecnolog\u00eda\nBaile",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 13,
+      "friends_count": 160,
+      "listed_count": 0,
+      "created_at": "Thu Jan 03 00:41:14 +0000 2019",
+      "favourites_count": 67,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5,
+      "lang": null,
+      "status": {
+        "created_at": "Fri Apr 17 21:03:14 +0000 2020",
+        "id": 1251254919786647553,
+        "id_str": "1251254919786647553",
+        "text": "@gbviquez @HelloKarlaMaria Nosotros compramos uno muy similar a ese en EPA, hace a\u00f1os para la playa y muy bueno. Ti\u2026 https://t.co/a9olbuVd1z",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gbviquez",
+              "name": "Gonzalo Bogantes",
+              "id": 71406380,
+              "id_str": "71406380",
+              "indices": [
+                0,
+                9
+              ]
+            },
+            {
+              "screen_name": "HelloKarlaMaria",
+              "name": "Karla",
+              "id": 831266567941980160,
+              "id_str": "831266567941980160",
+              "indices": [
+                10,
+                26
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/a9olbuVd1z",
+              "expanded_url": "https://twitter.com/i/web/status/1251254919786647553",
+              "display_url": "twitter.com/i/web/status/1\u2026",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1251252155681583106,
+        "in_reply_to_status_id_str": "1251252155681583106",
+        "in_reply_to_user_id": 71406380,
+        "in_reply_to_user_id_str": "71406380",
+        "in_reply_to_screen_name": "gbviquez",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1083403954480926722/pqJGT9Og_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1083403954480926722/pqJGT9Og_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080625094353973248/1547138605",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": true,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 760019870696271872,
+      "id_str": "760019870696271872",
+      "name": "Pablo Mena",
+      "screen_name": "pmena182",
+      "location": "Heredia, Costa Rica",
+      "description": "Ing.Mecatr\u00f3nico l \ud83c\udfae",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 82,
+      "friends_count": 187,
+      "listed_count": 0,
+      "created_at": "Mon Aug 01 07:50:32 +0000 2016",
+      "favourites_count": 618,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 246,
+      "lang": null,
+      "status": {
+        "created_at": "Sat Feb 20 00:56:14 +0000 2021",
+        "id": 1362929016429240323,
+        "id_str": "1362929016429240323",
+        "text": "@evamgleek Esa vara se usa para todo jaja",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "evamgleek",
+              "name": "Eva",
+              "id": 104897709,
+              "id_str": "104897709",
+              "indices": [
+                0,
+                10
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1362927526608138241,
+        "in_reply_to_status_id_str": "1362927526608138241",
+        "in_reply_to_user_id": 104897709,
+        "in_reply_to_user_id_str": "104897709",
+        "in_reply_to_screen_name": "evamgleek",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1248070282331463683/Gy4UZQ6d_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248070282331463683/Gy4UZQ6d_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/760019870696271872/1546192954",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": true,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 13535432,
+      "id_str": "13535432",
+      "name": "Costa_Rica_Tour",
+      "screen_name": "Costa_Rica_Tour",
+      "location": "Costa Rica",
+      "description": "Sharing all the wonders of Costa Rica with the world.  Come enjoy one of the most beautiful places on the planet, and learn what \"pura vida\" really means.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1029,
+      "friends_count": 4322,
+      "listed_count": 11,
+      "created_at": "Fri Feb 15 23:01:44 +0000 2008",
+      "favourites_count": 4878,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 469,
+      "lang": null,
+      "status": {
+        "created_at": "Wed Nov 07 06:21:38 +0000 2018",
+        "id": 1060054652023005185,
+        "id_str": "1060054652023005185",
+        "text": "RT @ricksammon: This could be you . . . on my 2019 Costa Rica photo workshop: https://t.co/tg7cX9tczO. https://t.co/XR8bv1vhU3",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ricksammon",
+              "name": "Rick Sammon",
+              "id": 27766102,
+              "id_str": "27766102",
+              "indices": [
+                3,
+                14
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/tg7cX9tczO",
+              "expanded_url": "http://ricksammon.com/2019-photo-workshops",
+              "display_url": "ricksammon.com/2019-photo-wor\u2026",
+              "indices": [
+                78,
+                101
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 1059963935825281024,
+              "id_str": "1059963935825281024",
+              "indices": [
+                103,
+                126
+              ],
+              "media_url": "http://pbs.twimg.com/media/DrW_lW2XQAAo4lh.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DrW_lW2XQAAo4lh.jpg",
+              "url": "https://t.co/XR8bv1vhU3",
+              "display_url": "pic.twitter.com/XR8bv1vhU3",
+              "expanded_url": "https://twitter.com/ricksammon/status/1059963956855537665/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 667,
+                  "h": 1000,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 667,
+                  "h": 1000,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 454,
+                  "h": 680,
+                  "resize": "fit"
+                }
+              },
+              "source_status_id": 1059963956855537665,
+              "source_status_id_str": "1059963956855537665",
+              "source_user_id": 27766102,
+              "source_user_id_str": "27766102"
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1059963935825281024,
+              "id_str": "1059963935825281024",
+              "indices": [
+                103,
+                126
+              ],
+              "media_url": "http://pbs.twimg.com/media/DrW_lW2XQAAo4lh.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DrW_lW2XQAAo4lh.jpg",
+              "url": "https://t.co/XR8bv1vhU3",
+              "display_url": "pic.twitter.com/XR8bv1vhU3",
+              "expanded_url": "https://twitter.com/ricksammon/status/1059963956855537665/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 667,
+                  "h": 1000,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 667,
+                  "h": 1000,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 454,
+                  "h": 680,
+                  "resize": "fit"
+                }
+              },
+              "source_status_id": 1059963956855537665,
+              "source_status_id_str": "1059963956855537665",
+              "source_user_id": 27766102,
+              "source_user_id_str": "27766102"
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Wed Nov 07 00:21:15 +0000 2018",
+          "id": 1059963956855537665,
+          "id_str": "1059963956855537665",
+          "text": "This could be you . . . on my 2019 Costa Rica photo workshop: https://t.co/tg7cX9tczO. https://t.co/XR8bv1vhU3",
+          "truncated": false,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+              {
+                "url": "https://t.co/tg7cX9tczO",
+                "expanded_url": "http://ricksammon.com/2019-photo-workshops",
+                "display_url": "ricksammon.com/2019-photo-wor\u2026",
+                "indices": [
+                  62,
+                  85
+                ]
+              }
+            ],
+            "media": [
+              {
+                "id": 1059963935825281024,
+                "id_str": "1059963935825281024",
+                "indices": [
+                  87,
+                  110
+                ],
+                "media_url": "http://pbs.twimg.com/media/DrW_lW2XQAAo4lh.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DrW_lW2XQAAo4lh.jpg",
+                "url": "https://t.co/XR8bv1vhU3",
+                "display_url": "pic.twitter.com/XR8bv1vhU3",
+                "expanded_url": "https://twitter.com/ricksammon/status/1059963956855537665/photo/1",
+                "type": "photo",
+                "sizes": {
+                  "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                  },
+                  "large": {
+                    "w": 667,
+                    "h": 1000,
+                    "resize": "fit"
+                  },
+                  "medium": {
+                    "w": 667,
+                    "h": 1000,
+                    "resize": "fit"
+                  },
+                  "small": {
+                    "w": 454,
+                    "h": 680,
+                    "resize": "fit"
+                  }
+                }
+              }
+            ]
+          },
+          "extended_entities": {
+            "media": [
+              {
+                "id": 1059963935825281024,
+                "id_str": "1059963935825281024",
+                "indices": [
+                  87,
+                  110
+                ],
+                "media_url": "http://pbs.twimg.com/media/DrW_lW2XQAAo4lh.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DrW_lW2XQAAo4lh.jpg",
+                "url": "https://t.co/XR8bv1vhU3",
+                "display_url": "pic.twitter.com/XR8bv1vhU3",
+                "expanded_url": "https://twitter.com/ricksammon/status/1059963956855537665/photo/1",
+                "type": "photo",
+                "sizes": {
+                  "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                  },
+                  "large": {
+                    "w": 667,
+                    "h": 1000,
+                    "resize": "fit"
+                  },
+                  "medium": {
+                    "w": 667,
+                    "h": 1000,
+                    "resize": "fit"
+                  },
+                  "small": {
+                    "w": 454,
+                    "h": 680,
+                    "resize": "fit"
+                  }
+                }
+              }
+            ]
+          },
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 4,
+          "favorite_count": 25,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/939364658565341184/Ie7mkobH_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/939364658565341184/Ie7mkobH_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/13535432/1512796636",
+      "profile_link_color": "154B17",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 289725608,
+      "id_str": "289725608",
+      "name": "Jorge E. L\u00f3pez Q.",
+      "screen_name": "JSTEVENLQ",
+      "location": "San Pedro, Montes de Oca",
+      "description": "",
+      "url": "https://t.co/NMb93ddSyU",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/NMb93ddSyU",
+              "expanded_url": "https://www.facebook.com/?ref=home#!/jstevenlq",
+              "display_url": "facebook.com/?ref=home#!/js\u2026",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 66,
+      "friends_count": 228,
+      "listed_count": 0,
+      "created_at": "Fri Apr 29 03:30:37 +0000 2011",
+      "favourites_count": 47,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 129,
+      "lang": null,
+      "status": {
+        "created_at": "Fri Aug 21 21:00:47 +0000 2020",
+        "id": 1296915174524420105,
+        "id_str": "1296915174524420105",
+        "text": "@Davides9125 @andres_brenes Consulta - Su persona entiende y est\u00e1 consciente de toda la informaci\u00f3n t\u00e9cnica contenida en cada oferta?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "Davides9125",
+              "name": "Esteban_2555",
+              "id": 196185762,
+              "id_str": "196185762",
+              "indices": [
+                0,
+                12
+              ]
+            },
+            {
+              "screen_name": "andres_brenes",
+              "name": "Andres Brenes",
+              "id": 15774515,
+              "id_str": "15774515",
+              "indices": [
+                13,
+                27
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1296887822876651520,
+        "in_reply_to_status_id_str": "1296887822876651520",
+        "in_reply_to_user_id": 196185762,
+        "in_reply_to_user_id_str": "196185762",
+        "in_reply_to_screen_name": "Davides9125",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000296191184/4ef9aa109ddc6bb0f98c025496fac4d0_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000296191184/4ef9aa109ddc6bb0f98c025496fac4d0_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/289725608/1362923463",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 146245902,
+      "id_str": "146245902",
+      "name": "Pedro Leiva",
+      "screen_name": "pleivac",
+      "location": "Cartago, Costa Rica",
+      "description": "Coordinador TEC Digital, ATI-TEC, -=+, \ud83c\udde8\ud83c\uddf7, \ud83d\udc68\ud83c\udffb\u200d\ud83d\udcbb, \ud83c\udfc3\u200d\u2642\ufe0f",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 536,
+      "friends_count": 289,
+      "listed_count": 10,
+      "created_at": "Thu May 20 23:48:46 +0000 2010",
+      "favourites_count": 1231,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 3553,
+      "lang": null,
+      "status": {
+        "created_at": "Tue Feb 16 16:31:38 +0000 2021",
+        "id": 1361714867284156423,
+        "id_str": "1361714867284156423",
+        "text": "RT @gebriagu: Jajaja Este hilo https://t.co/4losnnOlTR",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gebriagu",
+              "name": "Gerardo Brizuela Ag\u00fcero",
+              "id": 67135700,
+              "id_str": "67135700",
+              "indices": [
+                3,
+                12
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/4losnnOlTR",
+              "expanded_url": "https://twitter.com/KFC_ES/status/1361260945457238017",
+              "display_url": "twitter.com/KFC_ES/status/\u2026",
+              "indices": [
+                31,
+                54
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Tue Feb 16 15:53:03 +0000 2021",
+          "id": 1361705156673429508,
+          "id_str": "1361705156673429508",
+          "text": "Jajaja Este hilo https://t.co/4losnnOlTR",
+          "truncated": false,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+              {
+                "url": "https://t.co/4losnnOlTR",
+                "expanded_url": "https://twitter.com/KFC_ES/status/1361260945457238017",
+                "display_url": "twitter.com/KFC_ES/status/\u2026",
+                "indices": [
+                  17,
+                  40
+                ]
+              }
+            ]
+          },
+          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": true,
+          "quoted_status_id": 1361260945457238017,
+          "quoted_status_id_str": "1361260945457238017",
+          "retweet_count": 1,
+          "favorite_count": 1,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "es"
+        },
+        "is_quote_status": true,
+        "quoted_status_id": 1361260945457238017,
+        "quoted_status_id_str": "1361260945457238017",
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1238271334779621376/pT8UIVbG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1238271334779621376/pT8UIVbG_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/146245902/1456069681",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "181A1E",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "A3A3A3",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 1443003823,
+      "id_str": "1443003823",
+      "name": "Pr\u00edncipe de Paz",
+      "screen_name": "Kazuomi1987",
+      "location": "Costa Rica",
+      "description": "Buscando c\u00f3mo vivir",
+      "url": "https://t.co/DUVnCrm8np",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/DUVnCrm8np",
+              "expanded_url": "http://narraziones.blogspot.com",
+              "display_url": "narraziones.blogspot.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 76,
+      "friends_count": 182,
+      "listed_count": 1,
+      "created_at": "Mon May 20 06:11:49 +0000 2013",
+      "favourites_count": 1836,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1820,
+      "lang": null,
+      "status": {
+        "created_at": "Tue Sep 24 06:37:16 +0000 2019",
+        "id": 1176385088919166976,
+        "id_str": "1176385088919166976",
+        "text": "RT @guardian: \"#HowDareYou \u2013 you have stolen my dreams and my childhood.\"\n\n\"The eyes of all future generations are on you,\" @GretaThunberg\u2026",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "HowDareYou",
+              "indices": [
+                15,
+                26
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "guardian",
+              "name": "The Guardian",
+              "id": 87818409,
+              "id_str": "87818409",
+              "indices": [
+                3,
+                12
+              ]
+            },
+            {
+              "screen_name": "GretaThunberg",
+              "name": "Greta Thunberg",
+              "id": 1006419421244678144,
+              "id_str": "1006419421244678144",
+              "indices": [
+                124,
+                138
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Tue Sep 24 01:00:44 +0000 2019",
+          "id": 1176300400502116355,
+          "id_str": "1176300400502116355",
+          "text": "\"#HowDareYou \u2013 you have stolen my dreams and my childhood.\"\n\n\"The eyes of all future generations are on you,\"\u2026 https://t.co/rEyBKd3fEM",
+          "truncated": true,
+          "entities": {
+            "hashtags": [
+              {
+                "text": "HowDareYou",
+                "indices": [
+                  1,
+                  12
+                ]
+              }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+              {
+                "url": "https://t.co/rEyBKd3fEM",
+                "expanded_url": "https://twitter.com/i/web/status/1176300400502116355",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                  111,
+                  134
+                ]
+              }
+            ]
+          },
+          "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 2362,
+          "favorite_count": 5432,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 2362,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/915800694770274305/i5t8LVWb_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/915800694770274305/i5t8LVWb_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": true,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 1018469995,
+      "id_str": "1018469995",
+      "name": "Brayan Delgado",
+      "screen_name": "brayan_deld",
+      "location": "Costa Rica, Limon, Guapiles",
+      "description": "Biologist\ud83d\udc68\u200d\ud83d\udd2c \ud83e\uddec| Co-Founder at @neuralcoders\ud83d\udc68\u200d\ud83d\udcbb",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 18,
+      "friends_count": 62,
+      "listed_count": 0,
+      "created_at": "Mon Dec 17 22:27:23 +0000 2012",
+      "favourites_count": 23,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 25,
+      "lang": null,
+      "status": {
+        "created_at": "Wed Feb 17 04:53:56 +0000 2021",
+        "id": 1361901675297071104,
+        "id_str": "1361901675297071104",
+        "text": "RT @neuralcoders: Las empresas que integran Seguridad Ofensiva en sus l\u00edneas de trabajo tienen la capacidad de detectar y resolver sus vuln\u2026",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "neuralcoders",
+              "name": "Neural Coders",
+              "id": 1023483599100764160,
+              "id_str": "1023483599100764160",
+              "indices": [
+                3,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Tue Feb 16 18:44:17 +0000 2021",
+          "id": 1361748248751452169,
+          "id_str": "1361748248751452169",
+          "text": "Las empresas que integran Seguridad Ofensiva en sus l\u00edneas de trabajo tienen la capacidad de detectar y resolver su\u2026 https://t.co/mpQvh4uIQZ",
+          "truncated": true,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+              {
+                "url": "https://t.co/mpQvh4uIQZ",
+                "expanded_url": "https://twitter.com/i/web/status/1361748248751452169",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
+          },
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 1,
+          "favorite_count": 3,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "es"
+        },
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1292325274835705856/WSgdtnH__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1292325274835705856/WSgdtnH__normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1018469995/1603762507",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 115189158,
+      "id_str": "115189158",
+      "name": "The Robot Report",
+      "screen_name": "therobotreport",
+      "location": "Boston, MA",
+      "description": "Exploring the business and applications of robotics. https://t.co/DyGfX9sAsH has a worldwide database and global map of thousands of companies in robotics.",
+      "url": "http://t.co/DyGfX9t8if",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/DyGfX9t8if",
+              "expanded_url": "http://TheRobotReport.com",
+              "display_url": "TheRobotReport.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/DyGfX9sAsH",
+              "expanded_url": "http://TheRobotReport.com",
+              "display_url": "TheRobotReport.com",
+              "indices": [
+                53,
+                76
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 22853,
+      "friends_count": 2861,
+      "listed_count": 622,
+      "created_at": "Wed Feb 17 22:16:51 +0000 2010",
+      "favourites_count": 1874,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 6397,
+      "lang": null,
+      "status": {
+        "created_at": "Fri Feb 19 18:04:28 +0000 2021",
+        "id": 1362825394383126534,
+        "id_str": "1362825394383126534",
+        "text": "\u201cTouch is such an important mode of communication for most organisms, but it has been virtually absent from human-r\u2026 https://t.co/fUSNX3vKqZ",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/fUSNX3vKqZ",
+              "expanded_url": "https://twitter.com/i/web/status/1362825394383126534",
+              "display_url": "twitter.com/i/web/status/1\u2026",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/897567054664011777/DHCLF3dh_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/897567054664011777/DHCLF3dh_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/115189158/1579277338",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    }
+  ],
+  "next_cursor": 1609677820248922510,
+  "next_cursor_str": "1609677820248922510",
+  "previous_cursor": -1644507834319480122,
+  "previous_cursor_str": "-1644507834319480122",
+  "total_count": null
+}
